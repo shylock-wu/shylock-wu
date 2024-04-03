@@ -35,10 +35,10 @@ Here are some ideas to get you started:
 -->
 
 ### Tech stack
-![](https://skillicons.dev/icons?i=ts,nodejs,deno,react,vue,solidjs,astro,windicss,nextjs,nuxtjs,nestjs,electron,tauri,rust)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,nodejs,vue,nestjs,docker)](https://skillicons.dev)
 
 ### Tools I use
-![](https://skillicons.dev/icons?i=vscode,webpack,vite,rollup,gulp,git,githubactions,vercel,netlify,jenkins,pnpm)
+![](https://skillicons.dev/icons?i=vscode,webpack,vite,git,apple,cloudflare,npm,pnpm,vercel,netlify,)
 
 ![](https://github-readme-stats.vercel.app/api?username=shylock-wu&show_icons=true&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shylock-wu&layout=compact&hide_border=true&langs_count=8)
